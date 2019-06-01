@@ -1,7 +1,7 @@
 {
     "version": 2,
     "name": "create-react-app",
-    "alias": ["williexu.com"],
+    "alias": "williexu.com",
     "builds": [
         {
             "src": "package.json",
